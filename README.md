@@ -1,7 +1,8 @@
 # Employee-Management-System
 
 
-This is a Java Excersise belong to Kun Huang, a Employee Management System.
+This is a Java Excersise belong to Kun Huang
+a Employee Management System.
 
 Note
 You’re more than welcome to fork it, modify it and make it much better ;-)
