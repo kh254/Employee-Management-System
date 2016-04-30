@@ -4,7 +4,6 @@
 This is a Java Excersise belong to Kun Huang, a Employee Management System.
 
 Note
-
 You’re more than welcome to fork it, modify it and make it much better ;-)
 I write this Java app on my Mac and there may cause something wrong when you run it on Windows, or maybe not, I didn’t make any experiments on it, if you’d like to do this, just do it for free.
 Configuration
