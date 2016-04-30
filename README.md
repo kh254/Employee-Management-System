@@ -1,6 +1,7 @@
 # Employee-Management-System
 
-
+What's this?
+-----------------------------
 This is a Java Excersise belong to Kun Huang
 a Employee Management System.
 
